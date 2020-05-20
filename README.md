@@ -2,7 +2,7 @@
 <h2>(beta)</h2>
 
 <h2>Introduction</h2>
-The lunchtable Third Party is a development Package allowing the community and Third Party Companies to develop  extension packages for the lunchtable web application. This project does not mean that Lunchtable is an Open Source Application,  and for that reason the development tools will include a run down licenced development version of lunchtable, That still includes all the necessary tools with the real web application. This also means that we will only be supporting developer access to part of the webapp. You can upload your extension to the Lunchtable Extension Marketplace In an Upcoming version, Though this does mean that lunchtable has the right to remove or terminate your extension if it does not suit our needs for our extension program and we may not support it working with our site as well. Though back to the good things
+The lunchtable Third Party is a development Package allowing the community and Third Party Companies to develop  extension packages for the lunchtable web application. **This project does not mean that Lunchtable is an Open Source Application,**  and for that reason the development tools will include **a run down licenced development version of lunchtable**, That still includes all the necessary tools with the real web application. This also means that we will only be supporting developer access to part of the webapp. You can upload your extension to the Lunchtable Extension Marketplace In an Upcoming version, Though this does mean that lunchtable has the right to remove or terminate your extension if it does not suit our needs for our extension program and we may not support it working with our site as well. Though back to the good things
 
 <h2>How we designed Lunchtable</h2>
 Lunchtable was developed in mostly Javascript with of course the addition of CSS and HTML for UI and development with the Google Firebase.api. Lunchtable has one important tool that we used for development of the main app, a DevTools Option for testing things. If you change the Variable DevTools to the False Boolean it will not use the devtool mod. 
@@ -13,11 +13,11 @@ Though you may be able to view and download the code from our webapp that does n
 
 
 
-<h1>What Do we Mean “Not Open Source” </h2>
+<h2>What Do we Mean “Not Open Source” </h2>
 Well as a company Lunchtable has not decided to make our project open source for our own reasons. So the things you may be able to do with extensions may be limited to what we make available, But were looking to add more things later and in the future for the lunchtable project.
 
-<h1>Verified Extensions</h2>
-Verified Extensions are extensions that have been evaluated and tested by Lunchtable developers to be determined safe to use if your worried about extensions stealing information, we look through things like security flaws to bugs to make sure it won’t affect the user experience. To apply to make your extensions verified
+<h2>Verified Extensions</h2>
+**Verified Extensions** are extensions that have been evaluated and tested by Lunchtable developers to be determined safe to use if your worried about extensions stealing information, we look through things like security flaws to bugs to make sure it won’t affect the user experience. To apply to make your extensions verified
 
 <h2>Risky and Warned Extensions</h2>
 At lunchtable we take the experience of our users very seriously, So if we evaluate an extension as Risky and Buggy we make claim it ask a ‘Risky’ Extension. This means that whenever people look at your extension they may get warned that this may bring a security flaw to there experience. If issues are not resolved or reported in progress 30 days after a warning is issued you're extension may be ‘pulled’ and users will not be able to download the extension until deemed safe again.
